@@ -1,0 +1,82 @@
+html {
+  font-size: 14px;
+  background-color: rgb(47, 45, 45);
+  color:antiquewhite;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  background-color: rgb(47, 45, 45);
+  color:antiquewhite;
+}
+
+form.card.p-3 {
+  background-color: rgb(47, 45, 45);
+  color:antiquewhite;
+}
+
+thead th, td{
+  background-color: antiquewhite;
+  color: black;
+  padding: 10px;
+}
+
+.mr-5 {
+  background-color: antiquewhite;
+}
+
+.navbar {
+  background-color: antiquewhite;
+}
+
+.btn.btn-primary {
+  background-color: #9d2727;
+  border-color: #9d2727;
+}
+
+.btn.btn-danger {
+  background-color: #9d2727;
+}
+
+table, th, td {
+  border: 3px solid;
+  border-color: #9d2727;
+  background-color: antiquewhite;
+  
+}
+
+ /* html {
+  background-image: #837960 url("https://a.ltrbxd.com/resized/sm/upload/q2/0n/4m/oh/pearl-1200-1200-675-675-crop-000000.jpg?v=0ed37f5964") 0 0 no-repeat;
+  background-image: linear-gradient(to bottom, rgb(47, 45, 45) 35%, antiquewhite 100%), 
+  url("https://a.ltrbxd.com/resized/sm/upload/q2/0n/4m/oh/pearl-1200-1200-675-675-crop-000000.jpg?v=0ed37f5964");
+}  */
+
+html {
+  background: antiquewhite;
+  background: linear-gradient(rgb(47, 45, 45) 35%, antiquewhite 100%), url("https://a.ltrbxd.com/resized/sm/upload/q2/0n/4m/oh/pearl-1200-1200-675-675-crop-000000.jpg?v=0ed37f5964");
+  background-size: 100%;
+}
+
+.table th, td {
+  color: black;
+}
+
+#NewRating_Rating {
+  height: 50px;
+  width: 300px;
+}
+
+.table {
+  border-color: #9d2727;
+}
