@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "aELSpmqcYvKl53JR+ro3wGnD/gEycNHcr+tMgAAc5t2iaHewwPUVLenml3XbctJ2fhQ1BPcMX29uHraxpSsqxg==",
+  "dgSpecHash": "xQfb+EauKscYFxBDT4Z8zeQNobBpf/DwKMjICz0hlLNO6TZKVeEdWkvRmVP2lyKdRscpVGTIjm8QD4piV2FSsA==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\Movies2\\Movies2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\kenzm\\Documents\\MovieWebPage\\MovieWebPage\\Movies2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kenzm\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

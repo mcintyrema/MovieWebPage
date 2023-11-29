@@ -8,45 +8,45 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Movies2
 build_property.RootNamespace = Movies2
-build_property.ProjectDir = c:\Projects\Movies2\
+build_property.ProjectDir = C:\Users\kenzm\Documents\MovieWebPage\MovieWebPage\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Projects\Movies2
+build_property.MSBuildProjectDirectory = C:\Users\kenzm\Documents\MovieWebPage\MovieWebPage
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Projects/Movies2/Pages/Error.cshtml]
+[C:/Users/kenzm/Documents/MovieWebPage/MovieWebPage/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Projects/Movies2/Pages/Index.cshtml]
+[C:/Users/kenzm/Documents/MovieWebPage/MovieWebPage/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Projects/Movies2/Pages/MovieRating.cshtml]
+[C:/Users/kenzm/Documents/MovieWebPage/MovieWebPage/Pages/MovieRating.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVSYXRpbmcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Projects/Movies2/Pages/Privacy.cshtml]
+[C:/Users/kenzm/Documents/MovieWebPage/MovieWebPage/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Projects/Movies2/Pages/Reviews.cshtml]
+[C:/Users/kenzm/Documents/MovieWebPage/MovieWebPage/Pages/Reviews.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmV2aWV3cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Projects/Movies2/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/kenzm/Documents/MovieWebPage/MovieWebPage/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Projects/Movies2/Pages/_ViewImports.cshtml]
+[C:/Users/kenzm/Documents/MovieWebPage/MovieWebPage/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Projects/Movies2/Pages/_ViewStart.cshtml]
+[C:/Users/kenzm/Documents/MovieWebPage/MovieWebPage/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Projects/Movies2/Pages/Shared/_Layout.cshtml]
+[C:/Users/kenzm/Documents/MovieWebPage/MovieWebPage/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-lwk2e2yz0z

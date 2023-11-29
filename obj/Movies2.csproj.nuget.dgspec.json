@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\Movies2\\Movies2.csproj": {}
+    "C:\\Users\\kenzm\\Documents\\MovieWebPage\\MovieWebPage\\Movies2.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\Movies2\\Movies2.csproj": {
+    "C:\\Users\\kenzm\\Documents\\MovieWebPage\\MovieWebPage\\Movies2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Movies2\\Movies2.csproj",
+        "projectUniqueName": "C:\\Users\\kenzm\\Documents\\MovieWebPage\\MovieWebPage\\Movies2.csproj",
         "projectName": "Movies2",
-        "projectPath": "C:\\Projects\\Movies2\\Movies2.csproj",
-        "packagesPath": "C:\\Users\\MMcIntyre\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Movies2\\obj\\",
+        "projectPath": "C:\\Users\\kenzm\\Documents\\MovieWebPage\\MovieWebPage\\Movies2.csproj",
+        "packagesPath": "C:\\Users\\kenzm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kenzm\\Documents\\MovieWebPage\\MovieWebPage\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\MMcIntyre\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\kenzm\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -40,6 +37,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -59,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }

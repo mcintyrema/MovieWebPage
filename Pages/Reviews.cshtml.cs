@@ -2,6 +2,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using RazorPagesReviews.Models;
 using RazorPagesReviews.Services;
+using Newtonsoft.Json;
+
 
 namespace RazorPagesReviews.Pages
 {
@@ -31,14 +33,14 @@ namespace RazorPagesReviews.Pages
             return RedirectToAction("Get");
         }
         public Ratings NewRating {get; set;}
-        public IActionResult OnGet(string passedObject)
-        {
-            NewRating = JsonConvert.DeserializeObject<Ratings>(passedObject);
+        // public IActionResult OnGet(string passedObject)
+        // {
+        //     NewRating = JsonConvert.DeserializeObject<Ratings>(passedObject);
 
-            if(NewRating == null){
-                return NotFound();
-            }
-            return Page();
-        }
+        //     if(NewRating == null){
+        //         return NotFound();
+        //     }
+        //     return Page();
+        // }
     }
 }

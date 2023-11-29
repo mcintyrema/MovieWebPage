@@ -29,8 +29,14 @@ namespace RazorPagesReviews.Pages
 
         [BindProperty]
         public Ratings NewRating {get; set;} = new();
-        Dictionary<string, string> dictRatings = 
-        new Dictionary<string, string> { { "passedObject", JsonConvert.SerializeObject(NewRating) } };
+
+        public MovieRatingModel()
+        {
+            dictRatings["passedObject"] = JsonConvert.SerializeObject(NewRating);
+        }
+        Dictionary<string, string> dictRatings = new Dictionary<string, string>();
+        // Dictionary<string, string> dictRatings = 
+        // new Dictionary<string, string> { { "passedObject", JsonConvert.SerializeObject(NewRating) } };
 
         
         public IActionResult OnPostDelete(int id)
